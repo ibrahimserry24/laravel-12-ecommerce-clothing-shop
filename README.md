@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/705562df-15de-4618-b036-4e92399361d2
+
 # 👕 Modern Laravel 12 E-Commerce Clothing Shop
 
 [![Laravel Version](https://img.shields.io/badge/Laravel-12.x-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com)
